@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9b803f17.css",
+    "main.js": "/portfolio/static/js/main.8a9c33bc.js",
+    "static/media/zorro2-fondo.jpg": "/portfolio/static/media/zorro2-fondo.f5054c45a702b2c9dfd3.jpg",
+    "static/media/fondoTodo2.jpg": "/portfolio/static/media/fondoTodo2.5cf104477f6b64a90a69.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.9b803f17.css.map": "/portfolio/static/css/main.9b803f17.css.map",
+    "main.8a9c33bc.js.map": "/portfolio/static/js/main.8a9c33bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b803f17.css",
+    "static/js/main.8a9c33bc.js"
+  ]
+}
