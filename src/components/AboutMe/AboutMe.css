@@ -1,0 +1,46 @@
+.aboutMe{
+    height: inherit;
+    background-image: url("../../assets/fondoTodo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.aboutMe .cont-aboutme{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: inherit;
+    
+}
+.cont-aboutme>div{
+    background-color: antiquewhite;
+}
+
+.my-description h1{
+    font-size: 40px;
+    padding: 10px 18px;
+    
+}
+.my-description p{
+    font-size: 24px;
+    padding: 7px 18px;
+}
+.my-description p>span{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.passions h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.passions .passion-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.passion-list p{
+    font-size: 25px;
+    margin-right: 23px;
+}

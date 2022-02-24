@@ -1,0 +1,31 @@
+.skills {
+    height: inherit;
+    background-image: url("../../assets/fondoTodo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skills .section-skills{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.section-skills div{
+    background-color: antiquewhite;
+}
+.title {
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.section-skills .aptitudes{
+
+}
+.section-skills .languages{
+
+}
+.section-skills .habilities{
+
+}

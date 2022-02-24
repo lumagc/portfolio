@@ -1,0 +1,27 @@
+.presentation{
+    background-image: url("../../assets/zorro2-fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    height: inherit;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+.cont-presentation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+.cont-presentation .img-profile{
+
+}
+.cont-presentation .name{
+    color: aliceblue;
+    font-size: 60px;
+}
+.cont-presentation .job{
+    color: aliceblue;
+    font-size: 40px;
+}

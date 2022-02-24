@@ -1,0 +1,40 @@
+.portfolio{
+    height: inherit;
+    background-image: url("../../assets/fondoTodo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.portfolio h1{
+    font-size: 40px;
+}
+.portfolio .section-portfolio{
+    height: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.section-portfolio .proyects-list{
+    background-color: antiquewhite;
+}
+.proyects-list h3{
+    font-size: 30px;
+}
+.proyects-list p{
+    font-size: 25px;
+    padding: 5px;
+}
+.proyects-list a {
+    text-decoration: none;
+    outline: none;
+}
+.proyects-list a:link {
+    color: black;
+}
+.proyects-list a:visited {
+    color: black;
+}
+.proyects-list a:active {
+    color: black;
+}

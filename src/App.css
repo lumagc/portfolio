@@ -1,0 +1,25 @@
+/*Estilos generales*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body, #root, .App{
+    height: 100%;
+}
+.main {
+    height: 740px;
+}
+.header {
+    background-color: lightcoral;
+}
+.footer{
+    background-color: lightcoral;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    color: aliceblue;
+}

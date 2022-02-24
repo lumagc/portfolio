@@ -1,0 +1,73 @@
+.academics {
+    height: inherit;
+    background-image: url("../../assets/fondoTodo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cont-buttons{
+    width: 36%;
+    height: 50px;
+    margin: 0 auto;
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont-buttons button {
+    border: 0;
+    background: none;
+    border-bottom: 4px solid black;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0 15px;
+    padding: 0 10px;
+}
+
+/*Education*/
+.education {
+    height: 89%;
+    margin-top: 30px;
+}
+
+.education h1{
+    font-size: 40px;
+}
+.education .section-education{
+    height: 93%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.section-education .cont-education{
+    width: 100%;
+    background-color: antiquewhite;
+}
+.cont-education p{
+    font-size: 24px;
+    padding: 7px;
+}
+
+/*Experience*/
+.experience {
+    height: 89%;
+    margin-top: 30px;
+}
+.experience h1{
+    font-size: 40px;
+}
+.experience .section-experience{
+    height: 93%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.section-experience .cont-experience{
+    width: 100%;
+    background-color: antiquewhite;
+}
+.cont-experience p{
+    font-size: 24px;
+    padding: 7px;
+}
