@@ -1,7 +1,7 @@
 import "./App.css";
 import { Nav, Presentation, AboutMe, Academics, Skills, Portfolio, Utilities, ContactMe } from "./components"
 import { CV } from "./CV/Cv"; 
-import { Link, Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 const { aboutMe, academics, portfolio, skills, utility } = CV;
 

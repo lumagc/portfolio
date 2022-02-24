@@ -12,7 +12,7 @@ const Portfolio = ({portfolio}) => {
                         <h3>{value.name}</h3>
                         <p>{value.description}</p>
                         <p>{value.autor}</p>
-                        <p><a href={value.link} target="_blank">Enlace al proyecto en Github</a></p>
+                        <p><a href={value.link} target="_blank" rel="">Enlace al proyecto en Github</a></p>
                     </div>
                 })
                 }

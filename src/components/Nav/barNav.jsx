@@ -1,6 +1,6 @@
 import React from "react";
 import "./barNav.css"
-import { Link, Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const BarNav = () => {
     return <nav className="nav">
